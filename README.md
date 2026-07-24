@@ -224,23 +224,18 @@ Lahore, Pakistan
 </p>
 
 ---
+# 📈 GitHub Highlights
 
-# ⚡ GitHub Summary
+- ⭐ Public Repositories
+- 💻 Oracle APEX Applications
+- 🏢 Oracle EBS R12 Customizations
+- 🔗 REST API Integrations
+- 📦 PL/SQL Packages & Procedures
+- 🚀 Enterprise Application Development
+- 🏭 Textile ERP Solutions
+- 🇵🇰 Pakistan FBR e-Invoicing
 
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadeemnasir71&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadeemnasir71&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadeemnasir71&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadeemnasir71&theme=tokyonight&utcOffset=5"/>
-
-</p>
 
 ---
