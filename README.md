@@ -203,14 +203,16 @@ Lahore, Pakistan
 </p>
 
 ---
+# 🚀 Featured Projects
 
-# 🏆 GitHub Trophies
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadeemnasir71&theme=flat&no-frame=true&margin-w=15"/>
-</p>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🏭 Textile ERP | Enterprise solution for spinning, weaving, dyeing and finishing operations | Oracle EBS R12, PL/SQL |
+| 🇵🇰 FBR e-Invoicing | Integration with Pakistan FBR for electronic invoice submission | Oracle APEX, REST API, JSON |
+| 📦 Oracle Inventory | Inventory management and reporting solutions | Oracle EBS R12 |
+| 🛒 Purchase Management | Purchase requisition and order management | Oracle EBS R12 |
+| 📊 Manufacturing Dashboard | Interactive dashboards and analytics | Oracle APEX, SQL |
+| 🔄 REST API Integration | Oracle REST API development and external system integration | Oracle APEX, PL/SQL |
 ---
 
 # 📈 Coding Activity
