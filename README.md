@@ -206,10 +206,11 @@ Lahore, Pakistan
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nadeemnasir71&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+# 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadeemnasir71&theme=flat&no-frame=true&margin-w=15"/>
+</p>
 ---
 
 # 📈 Coding Activity
