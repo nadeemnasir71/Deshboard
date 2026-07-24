@@ -171,3 +171,72 @@ Lahore, Pakistan
 - Oracle Cloud Technologies
 
 ---
+<!-- ========================================================= -->
+<!--                GITHUB PROFILE - PART 3                    -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NadeemNasir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeemNasir&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=NadeemNasir&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemNasir&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NadeemNasir&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NadeemNasir&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NadeemNasir&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NadeemNasir&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NadeemNasir&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NadeemNasir&theme=tokyonight&utcOffset=5"/>
+
+</p>
+
+---
