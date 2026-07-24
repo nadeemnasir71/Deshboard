@@ -23,9 +23,9 @@ Building Enterprise Solutions with Oracle Technologies
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nadeemnasir&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/nadeemnasir?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/nadeemnasir?label=Stars&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=nadeemnasir71&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nadeemnasir71?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/nadeemnasir7?label=Stars&style=for-the-badge" />
 </p>
 
 ---
@@ -179,9 +179,9 @@ Lahore, Pakistan
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NadeemNasir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nadeemnasir71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeemNasir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemnasir71&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -190,7 +190,7 @@ Lahore, Pakistan
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=NadeemNasir&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nadeemnasir71&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -198,7 +198,7 @@ Lahore, Pakistan
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemNasir&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemnasir71&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -206,7 +206,7 @@ Lahore, Pakistan
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NadeemNasir&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nadeemnasir71&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -215,7 +215,7 @@ Lahore, Pakistan
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NadeemNasir&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemnasir71&theme=tokyonight"/>
 
 </p>
 
@@ -225,17 +225,17 @@ Lahore, Pakistan
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NadeemNasir&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadeemnasir71&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NadeemNasir&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadeemnasir71&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NadeemNasir&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadeemnasir71&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NadeemNasir&theme=tokyonight&utcOffset=5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadeemnasir71&theme=tokyonight&utcOffset=5"/>
 
 </p>
 
