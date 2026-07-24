@@ -81,12 +81,93 @@ To build high-quality enterprise applications using Oracle technologies while co
 
 ## 📫 Contact
 
-📧 Email : your-email@example.com
+📧 Email : nadeemnasir71@gmail.com
 
 💼 LinkedIn :
 https://linkedin.com/in/your-linkedin
 
 🌍 Location :
 Lahore, Pakistan
+
+---
+
+<!-- ========================================================= -->
+<!--                GITHUB PROFILE - PART 2                    -->
+<!-- ========================================================= -->
+
+# 🛠 Tech Stack
+
+### Oracle Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Oracle_EBS_R12-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_APEX-0F4C81?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
+---
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json"/>
+</p>
+
+---
+
+### Integration & APIs
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle_REST_Data_Services-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Services-0052CC?style=for-the-badge"/>
+</p>
+
+---
+
+### Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/JDeveloper-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Developer-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOAD-006400?style=for-the-badge"/>
+</p>
+
+---
+
+# ⭐ Oracle Expertise
+
+| Technology | Experience |
+|------------|------------|
+| Oracle EBS R12 | ⭐⭐⭐⭐⭐ |
+| Oracle APEX | ⭐⭐⭐⭐⭐ |
+| Oracle Database | ⭐⭐⭐⭐⭐ |
+| PL/SQL | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| Oracle Forms | ⭐⭐⭐⭐☆ |
+| Oracle Reports | ⭐⭐⭐⭐☆ |
+| Oracle Workflow | ⭐⭐⭐⭐☆ |
+| REST API | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+
+---
+
+## 📚 Currently Learning
+
+- Oracle APEX 24.x
+- AI Integration
+- Cloud APIs
+- GitHub Actions
+- Modern UI Design
+- Oracle Cloud Technologies
 
 ---
